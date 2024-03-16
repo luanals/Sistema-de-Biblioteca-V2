@@ -1,0 +1,65 @@
+Python Programming,978-0-13-446379-3,Editora A,2020,John Doe,1
+Python for Beginners,978-1-987654-32-1,Editora A,2020,John Smith,2
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Calculo,249587-32,ufpe,1998,mordock,13
+Introdução à Programação em Python, Editora B, 2019, Ana Silva, 10
+Python para Iniciantes, Editora C, 2021, Pedro Oliveira, 11
+Aprenda Python em 21 Dias, Editora D, 2020, Maria Santos, 12
+Python Avançado: Técnicas e Boas Práticas, Editora E, 2018, José Pereira, 14
+Algoritmos em Python, Editora F, 2017, Carlos Souza, 15
+Python e Data Science, Editora G, 2022, Paula Ferreira, 16
+Programação Orientada a Objetos com Python, Editora H, 2019, Lucas Lima, 17
+Python para Ciência de Dados, Editora I, 2021, Marcela Almeida, 18
+Introdução à Programação em C, Editora J, 2016, André Martins, 19
+Java para Iniciantes, Editora K, 2020, João Oliveira, 20
+JavaScript Moderno, Editora L, 2019, Beatriz Silva, 21
+C++: Fundamentos e Prática, Editora M, 2018, Ricardo Santos, 22
+PHP para Desenvolvedores Web, Editora N, 2021, Eduardo Pereira, 23
+Ruby on Rails: Guia Completo, Editora O, 2017, Renata Costa, 24
+HTML5 e CSS3: Desenvolvimento Web, Editora P, 2020, Isabel Fernandes, 25
+SQL: Introdução e Prática, Editora Q, 2019, Rodrigo Almeida, 26
+Machine Learning com Python, Editora R, 2021, Marina Lima, 27
+Redes Neurais Artificiais: Teoria e Prática, Editora S, 2018, Felipe Santos, 28
+Inteligência Artificial: Conceitos e Aplicações, Editora T, 2020, Luana Oliveira, 29
+Ciência de Dados para Leigos, Editora U, 2019, Gustavo Costa, 30
+Biologia Molecular: Fundamentos e Aplicações, Editora V, 2016, Ana Maria Pereira, 31
+Genética: Uma Abordagem Molecular, Editora W, 2017, Joana Ferreira, 32
+Imunologia Básica, Editora X, 2020, Marcos Silva, 33
+Fisiologia Humana: Fundamentos e Práticas, Editora Y, 2018, Carla Santos, 34
+Anatomia Descritiva, Editora Z, 2019, Andréa Oliveira, 35
+Bioquímica: Princípios e Aplicações, Editora AA, 2017, Pedro Almeida, 36
+Microbiologia: Conceitos Essenciais, Editora BB, 2021, Renato Costa, 37
+Ecologia: Teoria e Prática, Editora CC, 2018, Fernanda Lima, 38
+Biologia Celular e Molecular, Editora DD, 2019, Rafaela Alves, 39
+Evolução: Mecanismos e Evidências, Editora EE, 2020, Gabriel Oliveira, 40
+Neurociência: Fundamentos e Aplicações, Editora FF, 2017, Camila Santos, 41
+Farmacologia Básica e Clínica, Editora GG, 2018, Marcelo Almeida, 42
+Biologia do Desenvolvimento, Editora HH, 2021, Amanda Silva, 43
+Histologia Básica: Texto e Atlas, Editora II, 2019, Bruno Oliveira, 44
+Ecossistemas: Estrutura e Funcionamento, Editora JJ, 2016, Luiz Fernandes, 45
+Ecotoxicologia: Princípios e Aplicações, Editora KK, 2017, Patrícia Costa, 46
+Biologia Marinha: Introdução e Conceitos, Editora LL, 2020, Felipe Almeida, 47
+Ecologia de Populações, Editora MM, 2018, Débora Oliveira, 48
+Genética Molecular Humana, Editora NN, 2019, Rafael Santos, 49
+Imunologia Clínica: Diagnóstico e Tratamento, Editora OO, 2021, Mariana Costa, 50
+Biologia Evolutiva, Editora PP, 2017, Tiago Oliveira, 51
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
+Introducao a Biologia Molecular,978-0321811851,Pearson,2012,Maurice R. Strum,John Doe,3
